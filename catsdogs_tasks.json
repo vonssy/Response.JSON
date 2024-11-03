@@ -84,6 +84,21 @@
             "id": 100,
             "title": "Sell Your Photos Online & Earn $5 per One by DOG",
             "code": "AUCTION"
+        },
+        {
+            "id": 105,
+            "title": "Top 5 Jobs That Let You Travel The World by DOG",
+            "code": "DEFLATION"
+        },
+        {
+            "id": 106,
+            "title": "JOBS OF THE FUTURE (and jobs that have no future) by CAT!!",
+            "code": "AFFILIATE"
+        },
+        {
+            "id": 107,
+            "title": "JOBS OF THE FUTURE (and jobs that have no future) by DOG!!",
+            "code": "ADDRESS"
         }
     ]
 }
