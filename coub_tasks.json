@@ -266,6 +266,42 @@
             "icon": "twitter",
             "status": "ready-to-start",
             "repeatable": true
+        },
+        {
+            "id": 38,
+            "type": "connect-wallet",
+            "title": "Connect OKX Wallet",
+            "reward": 100,
+            "icon": "okx-wallet",
+            "status": "ready-to-start",
+            "repeatable": false
+        },
+        {
+            "id": 40,
+            "type": "connect-wallet",
+            "title": "Connect Bitget Wallet",
+            "reward": 100,
+            "icon": "bitget-wallet",
+            "status": "ready-to-start",
+            "repeatable": false
+        },
+        {
+            "id": 42,
+            "type": "twitter",
+            "title": "Follow Bitget Wallet on X",
+            "reward": 10,
+            "icon": "twitter",
+            "status": "ready-to-start",
+            "repeatable": false
+        },
+        {
+            "id": 43,
+            "type": "telegram",
+            "title": "Join Bitget Wallet Telegram",
+            "reward": 10,
+            "icon": "telegram",
+            "status": "ready-to-start",
+            "repeatable": false
         }
     ]
 }
